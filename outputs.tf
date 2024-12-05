@@ -12,4 +12,4 @@ output "vpc_id" {
 
 # output "main_route_table_info"{
 #   value= module.myvpc.main_route_table_info
-# }cd 
+# }
